@@ -5,5 +5,5 @@ O MundiAR, conecta o presente e o passado através da realidade aumentada, promo
 - [https://github.com/matheusOliveira99/MundiAR](https://github.com/matheusOliveira99/MundiAR)
 
 ## Vídeos 
-- [https://youtu.be/uAcKSnhDH8I](https://youtu.be/uAcKSnhDH8I)
-- [https://youtu.be/9lZJcpiRxVI](https://youtu.be/9lZJcpiRxVI)
+- Pitch [https://youtu.be/uAcKSnhDH8I](https://youtu.be/uAcKSnhDH8I)
+- Demo [https://youtu.be/9lZJcpiRxVI](https://youtu.be/9lZJcpiRxVI)
